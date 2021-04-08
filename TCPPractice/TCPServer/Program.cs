@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace TCPPractice
+namespace TCPServer
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
         }
     }
 }
